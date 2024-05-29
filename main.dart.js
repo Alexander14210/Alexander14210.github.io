@@ -42843,7 +42843,7 @@ p=A.cn(m,A.aGf(s.e,a),m,m,m,m,m,m)
 k=A.Dk("Familia",n.e.d)
 j=n.a.c
 s=t.p
-o=A.cn(m,new A.d6(B.Cm,A.El(A.He(m,!1,B.lm,m,A.iG(A.a([new A.hd(1,B.bE,k,m),new A.hd(1,B.bE,A.Dk("\xc9poca",A.aH6(j.e)),m),new A.hd(1,B.bE,A.Dk("Fecha de Muestreo",B.b.gI(j.b.af8().split("T"))),m)],s),B.aB,B.ib,B.b0),B.Q6,B.hM,m),m),m),m,m,m,m,m,m)
+o=A.cn(m,new A.d6(B.Cm,A.El(A.He(m,!1,B.lm,m,A.iG(A.a([new A.hd(1,B.bE,k,m),new A.hd(1,B.bE,A.Dk("\xc9poca",A.aH6(j.e)),m),new A.hd(1,B.bE,A.Dk("Fecha de Muestreo",B.b.gI(j.b.af8().split("T"))),m)],s),B.aB,B.ib,B.b0),B.Q7,B.hM,m),m),m),m,m,m,m,m,m)
 j=A.a7(a).ax
 k=j.d
 return A.a6A(A.UY(k==null?j.b:k,m),A.iG(A.a([A.le(r,1),A.le(A.eo(new A.zw(q,5,5,"tag",m),m,1/0),3),A.le(o,2),B.C0,A.le(p,3)],s),B.aB,B.br,B.bs),m)}}
@@ -42856,7 +42856,7 @@ A.aw1(new A.ae8(this.c,s),this.b,t.z)},
 $S:0}
 A.ae8.prototype={
 $1(a){var s=null
-return A.cn(s,A.pv(A.iG(A.a([A.hq(this.b.ap(),s,s,s,s,s,s,s,s,s,s,s),new A.FD(new A.ae7(a),s,s,s,s,B.B,s,!1,s,B.Q8,s)],t.p),B.aB,B.qI,B.b0),s,s),this.a.at,s,200,s,s,s)},
+return A.cn(s,A.pv(A.iG(A.a([A.hq(this.b.ap(),s,s,s,s,s,s,s,s,s,s,s),new A.FD(new A.ae7(a),s,s,s,s,B.B,s,!1,s,B.Q9,s)],t.p),B.aB,B.qI,B.b0),s,s),this.a.at,s,200,s,s,s)},
 $S:142}
 A.ae7.prototype={
 $0(){A.fn(this.a,!1).rN(null)
@@ -42919,7 +42919,7 @@ s.x=s.AU(B.n)},
 L(a){var s,r,q,p,o,n=this,m=null,l="Transici\xf3n",k="Lluviosa",j=n.f
 j===$&&A.b()
 s=t.p
-j=A.El(A.He(m,!1,B.lm,m,A.iG(A.a([A.Dk("Latitud",B.c.j(j.d)),A.Dk("Longitud",B.c.j(n.f.e)),A.Dk("Cuenca",n.f.w)],s),B.bX,B.ib,B.b0),B.Q9,B.hM,m),m)
+j=A.El(A.He(m,!1,B.lm,m,A.iG(A.a([A.Dk("Latitud",B.c.j(j.d)),A.Dk("Longitud",B.c.j(n.f.e)),A.Dk("Cuenca",n.f.w)],s),B.bX,B.ib,B.b0),B.Qa,B.hM,m),m)
 r=n.r
 r===$&&A.b()
 r=A.CZ(a,r,"Seca")
@@ -42928,8 +42928,8 @@ q===$&&A.b()
 q=A.CZ(a,q,l)
 p=n.x
 p===$&&A.b()
-p=A.iG(A.a([B.Qa,r,q,A.CZ(a,p,k)],s),B.bX,B.ia,B.bs)
-A.cn(m,A.El(A.He(m,!1,B.De,m,A.iG(A.a([A.CZ(a,n.r,"Seca"),A.eo(m,5,m),A.CZ(a,n.w,l),A.eo(m,5,m),A.CZ(a,n.x,k)],s),B.bX,B.H6,B.b0),B.Qb,B.hM,B.Rn),B.HF),B.dp,m,m,m,new A.aO(8,8,8,8),m)
+p=A.iG(A.a([B.Qb,r,q,A.CZ(a,p,k)],s),B.bX,B.ia,B.bs)
+A.cn(m,A.El(A.He(m,!1,B.De,m,A.iG(A.a([A.CZ(a,n.r,"Seca"),A.eo(m,5,m),A.CZ(a,n.w,l),A.eo(m,5,m),A.CZ(a,n.x,k)],s),B.bX,B.H6,B.b0),B.Qc,B.hM,B.Rn),B.HF),B.dp,m,m,m,new A.aO(8,8,8,8),m)
 q=n.f
 q=A.hq(q.r+" ("+q.f+")",m,m,m,m,m,m,m,B.wZ,m,m,m)
 r=A.a7(a).ax
@@ -42937,7 +42937,7 @@ o=r.d
 r=A.UY(o==null?r.b:o,q)
 q=n.a.d
 o=n.f
-return A.a6A(r,A.iG(A.a([A.le(A.aGU(q,o.d,o.e,n.d),1),new A.hd(1,B.bE,A.cn(m,new A.d6(B.Cl,j,m),m,m,m,m,m,m),m),A.le(A.cn(m,new A.d6(B.Cw,p,m),m,m,m,m,m,m),1)],s),B.aB,B.br,B.bs),new A.nh(B.Dk,B.Bd,new A.agl(n,a),B.by,5,!0,B.xi,B.Q7,m))}}
+return A.a6A(r,A.iG(A.a([A.le(A.aGU(q,o.d,o.e,n.d),1),new A.hd(1,B.bE,A.cn(m,new A.d6(B.Cl,j,m),m,m,m,m,m,m),m),A.le(A.cn(m,new A.d6(B.Cw,p,m),m,m,m,m,m,m),1)],s),B.aB,B.br,B.bs),new A.nh(B.Dk,B.Bd,new A.agl(n,a),B.by,5,!0,B.xi,B.Q8,m))}}
 A.agh.prototype={
 $1(a){return a.f.a===this.a.a.c&&a.e===this.b},
 $S:313}
@@ -74575,7 +74575,7 @@ A.qz.prototype={}
 A.Hv.prototype={}
 A.Kt.prototype={
 L(a){var s=null,r=A.a7(a)
-return new A.eD(B.xy,s,s,new A.pE(r.ax.CW,A.jN(s,new A.d6(B.Cu,A.rf(A.a([B.Q4,A.qH(B.Qd,B.bW,s,s,s)],t.p),B.aB,B.br,B.b0),s),B.ai,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,B.bb),s),s)}}
+return new A.eD(B.xy,s,s,new A.pE(r.ax.CW,A.jN(s,new A.d6(B.Cu,A.rf(A.a([B.Q5,A.qH(B.Qe,B.bW,s,s,s)],t.p),B.aB,B.br,B.b0),s),B.ai,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,B.bb),s),s)}}
 A.UT.prototype={}
 A.UR.prototype={}
 A.US.prototype={
@@ -80257,8 +80257,8 @@ B.Dh=new A.ff(B.D5,null,null,null,null)
 B.z=new A.q(3707764736)
 B.j5=new A.o(!0,B.z,null,null,null,null,18,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.au=new A.ie(4,"start")
-B.Qe=new A.er("Explora los puntos que conforman la cuenca del r\xedo Caimito Arriba:",null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
-B.DQ=new A.ww(B.Dh,B.Qe,null,!1,null,null,null,null,null)
+B.Q4=new A.er("Explora los puntos que conforman la cuenca del r\xedo Caimito:",null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
+B.DQ=new A.ww(B.Dh,B.Q4,null,!1,null,null,null,null,null)
 B.zx=new A.uK(null,B.DQ,null)
 B.zz=new A.uM(null,null,null,null,null,null,null,null,null)
 B.zA=new A.uO(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -80358,8 +80358,8 @@ B.cf=new A.LM(1,"down")
 B.D2=new A.cE(61804,"MaterialIcons",null,!0)
 B.Dg=new A.ff(B.D2,48,null,null,null)
 B.NP=new A.o(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qc=new A.er("No hay peces para mostrar",null,B.NP,null,null,null,null,null,null,null,null,null,null)
-B.zy=new A.mZ(B.a5,null,null,B.Qc,null)
+B.Qd=new A.er("No hay peces para mostrar",null,B.NP,null,null,null,null,null,null,null,null,null,null)
+B.zy=new A.mZ(B.a5,null,null,B.Qd,null)
 B.Fr=A.a(s([B.Dg,B.zy]),t.p)
 B.Bm=new A.uW(B.az,B.qI,B.bs,B.aB,null,B.cf,null,B.Fr,null)
 B.bX=new A.n0(0,"start")
@@ -82043,7 +82043,7 @@ B.Kq=new A.dY([B.X],t.b4)
 B.Ic={serif:0,"sans-serif":1,monospace:2,cursive:3,fantasy:4,"system-ui":5,math:6,emoji:7,fangsong:8}
 B.Kr=new A.fA(B.Ic,9,t.fF)
 B.iS=new A.dY([B.bc,B.io,B.r5],A.ag("dY<k0>"))
-B.Qd=new A.er("OpenStreetMap",null,null,null,null,null,null,null,null,null,null,null,null)
+B.Qe=new A.er("OpenStreetMap",null,null,null,null,null,null,null,null,null,null,null,null)
 B.wl=new A.Kt(null)
 B.wp=new A.aD(B.b8,!1,!0,!1,!1)
 B.wm=new A.aD(B.aZ,!1,!0,!1,!1)
@@ -82092,9 +82092,9 @@ B.KW=new A.jc(3,"hide")
 B.SL=new A.jc(4,"remove")
 B.wN=new A.jc(5,"timeout")
 B.KX=new A.rz(null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Q5=new A.er("\xa1Final de recorrido! Volviendo a la p\xe1gina principal...",null,null,null,null,null,null,null,null,null,null,null,null)
+B.Q6=new A.er("\xa1Final de recorrido! Volviendo a la p\xe1gina principal...",null,null,null,null,null,null,null,null,null,null,null,null)
 B.Cd=new A.aW(4e6)
-B.KY=new A.or(B.Q5,null,5,null,null,null,null,null,B.j_,null,null,null,null,B.Cd,null,null,B.l_,B.am,null)
+B.KY=new A.or(B.Q6,null,5,null,null,null,null,null,B.j_,null,null,null,null,B.Cd,null,null,B.l_,B.am,null)
 B.wO=new A.KI(0,"permissive")
 B.SM=new A.KI(1,"normal")
 B.KZ=new A.yT(0,"criticallyDamped")
@@ -82440,15 +82440,15 @@ B.Pd=new A.o(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.P4=new A.o(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.OE=new A.o(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Q3=new A.cU(B.Oj,B.PI,B.Po,B.MN,B.Pg,B.Ob,B.PM,B.Nj,B.NS,B.P9,B.ME,B.Pp,B.Pd,B.P4,B.OE)
-B.Q4=new A.er("flutter_map | \xa9 ",null,null,null,null,null,null,null,null,null,null,null,null)
-B.Q6=new A.er("Acerca de este pez: ",null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
+B.Q5=new A.er("flutter_map | \xa9 ",null,null,null,null,null,null,null,null,null,null,null,null)
+B.Q7=new A.er("Acerca de este pez: ",null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
 B.Og=new A.o(!0,B.z,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Q7=new A.er("Ir al siguiente punto",null,B.Og,null,null,null,null,null,null,null,null,null,null)
-B.Q8=new A.er("SALIR",null,null,null,null,null,null,null,null,null,null,null,null)
+B.Q8=new A.er("Ir al siguiente punto",null,B.Og,null,null,null,null,null,null,null,null,null,null)
+B.Q9=new A.er("SALIR",null,null,null,null,null,null,null,null,null,null,null,null)
 B.x_=new A.o(!0,B.z,null,null,null,null,16,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Q9=new A.er("Informaci\xf3n de este punto: ",null,B.x_,null,B.au,null,null,!0,null,null,null,null,null)
-B.Qb=new A.er(u.n,null,B.x_,null,B.au,null,null,!0,null,null,null,null,null)
-B.Qa=new A.er(u.n,null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
+B.Qa=new A.er("Informaci\xf3n de este punto: ",null,B.x_,null,B.au,null,null,!0,null,null,null,null,null)
+B.Qc=new A.er(u.n,null,B.x_,null,B.au,null,null,!0,null,null,null,null,null)
+B.Qb=new A.er(u.n,null,B.j5,null,B.au,null,null,!0,null,null,null,null,null)
 B.SN=new A.aap(0,"system")
 B.x0=new A.zd(0)
 B.Qf=new A.zd(0.5)

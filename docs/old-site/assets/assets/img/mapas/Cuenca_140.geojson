@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Cuenca_140",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID_1": 51, "OBJECTID": 51, "ID_CUENCA": 140, "ID_REGIONA": "P721000", "CUENCA": "Río Caimito", "VERTIENTE": "Océano Pacífico", "RIO_PRINCI": "Río Caimito", "AREA_KM2": 508.5171743, "Shape_Leng": 185751.45903900001, "Shape_Area": 508521508.21100003, "diss": 1 }, "geometry": null }
+]
+}
